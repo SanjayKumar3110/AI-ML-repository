@@ -3,6 +3,6 @@ This repository contains the mini projects in the technology of machine learning
 # Machine Learning Projects
 
 ## Projects Included
-- [Stock Price Prediction using Linear Regression](Stock_Price_Prediction/)
+- [Stock Price Prediction using Linear Regression](stock_price_prediction/)
 - More projects will be added in the future.
 
